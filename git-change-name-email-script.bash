@@ -1,5 +1,5 @@
 #!/bin/bash
-echo This is script is an easy way to change your Git username and/or email. Just enter your details when asked to and the script will do the rest.
+echo "This is script is an easy way to change your Git username and/or email. Just enter your details when asked to and the script will do the rest."
 echo
 read -p 'Git-Username: ' uservar
 read -p 'Git-Email: ' emailvar
