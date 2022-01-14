@@ -8,6 +8,5 @@ This script is an easy way to change your Git username and/or email for those wh
 4. Give the script execution permission: ```sudo chmod +x git-change-name-email-script.bash``` and enter your password when prompted
 5. Run the script: ```./git-change-name-email-script.bash```
 
-Optionally:
-6. Remove execution permission: ```sudo chmod -x git-change-name-email-script.bash```
+Optionally: Remove execution permission by running ```sudo chmod -x git-change-name-email-script.bash```
 
